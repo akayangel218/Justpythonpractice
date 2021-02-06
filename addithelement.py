@@ -25,3 +25,4 @@ for i in range(len(x)):
     else:
         break
 print(sa)
+# Or you could return sa if this were a function
