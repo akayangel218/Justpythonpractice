@@ -3,7 +3,7 @@ and following i elements.
 For example, a given [3, 6, 2, 7, 8, 5, 4, 1] outputs to a new array [3, 8 (6 + 2), 18 (2 + 7 + 9), 
 25 (7 + 9 + 5 + 4), 19 (9 + 5 + 4 + 1)]'''
 
-# x is the int array input
+# x is the input of the int array
 
 
 x = [3, 6, 2, 7, 9, 5, 4, 1]
